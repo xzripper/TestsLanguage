@@ -1,6 +1,7 @@
 from tlassets import *
 from tlexc import *
 
+
 class Test:
     def __init__(self, func, returns) -> None:
         """Create test."""
